@@ -1,0 +1,231 @@
+body {
+  margin: 0;
+}
+div {
+  margin: 0;
+}
+h1 {
+  font-size: 4em;
+}
+h2 {
+  font-size: 2.8em;
+}
+h3 {
+  font-size: 1.4em;
+}
+p {
+  font-size: 1.4em;
+}
+
+
+
+
+.cursive {
+  font-style: italic;
+}
+.navBar {
+  height: 100px;
+  width: 100%;
+  background-color: #84a9ac;
+
+  position: fixed;
+  z-index: 2;
+}
+a {
+  color: white;
+}
+a:hover {
+  color: #204051;
+}
+.contactMeTab {
+  margin: 30px 0 0 10px;
+  display: inline-block;
+  padding: 5px;
+  border-right: 1px solid;
+  border-left: 1px solid;
+}
+.githubNav {
+  margin: 30px 0 0 0;
+  display: inline-block;
+  padding: 5px;
+  border-left: 1px solid;
+  border-right: 1px solid;
+}
+
+.titleBox {
+  margin: auto auto auto auto;
+  height: 380px;
+}
+.centerTitleBox {
+  padding: 115px;
+}
+.titleText {
+  text-align: center;
+  color: #204051;
+}
+.programmer {
+  font-size: 1.7em;
+}
+.breakStyle {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #204051;
+  border-width: 6px;
+  width: 12%;
+
+  margin: auto;
+}
+.mainInfo {
+  height: 300px;
+  position: relative;
+  width: 70%;
+  margin: auto;
+
+}
+.profilePic {
+  border-radius: 100%;
+  width: 200px;
+  position: absolute;
+  left: 15px;
+  top: 16.5%;
+}
+.aboutMe {
+  padding: 24px;
+  display: inline-block;
+  color: black;
+  padding-left: 240px;
+  z-index: 1;
+}
+.secondInfo {
+  height: 300px;
+  position: relative;
+  width: 70%;
+  margin: auto;
+}
+.skillsTitle {
+  position: absolute;
+  left: 4%;
+  color: black;
+}
+.skillList {
+  padding: 50px;
+  padding-left: 630px;
+  display: inline-block;
+}
+.codePic {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  right: 15px;
+  top: 16.5%;
+}
+.skills {
+  color: black;
+  margin: 12px;
+}
+.thirdInfo {
+  height: 300px;
+  position: relative;
+  width: 70%;
+  margin: auto;
+}
+.projectPic {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 3%;
+  top: 16.5%;
+}
+.projectsTitle {
+  position: absolute;
+  right: 4%;
+  color: black;
+}
+.projectsList {
+  padding: 50px;
+  margin-left: 20%;
+  display: inline-block;
+}
+.projects {
+  margin: 12px;
+  color: black;
+}
+.linkBar {
+  height: 100px;
+  width: 100%;
+  background-color: #84a9ac;
+  position: relative;
+}
+.linkedInLink {
+  height: 50px;
+  width: 50px;
+
+  position: absolute;
+  left: 30%;
+  top: 25px;
+}
+.githubIcon {
+  height: 50px;
+  width: 50px;
+
+  position: absolute;
+  left: 50%;
+  top: 25px;
+}
+.minecraftIcon {
+  height: 50px;
+  width: 50px;
+
+  position: absolute;
+  left: 70%;
+  top: 25px;
+}
+
+/*contact Me Page*/
+.contactMeHolder {
+  background-color: #3b6978;
+  height: 550px;
+  width: 60%;
+  margin: 100px 0 0 20%;
+  border-radius: 3px;
+}
+.contactMeNavBar {
+  height: 100px;
+  width: 100%;
+  background-color: #84a9ac;
+}
+.contactMeForms {
+  padding: 30px;
+}
+.whiteColor {
+  color: #e4e3e3;
+}
+.yourName {
+  margin: 12px;
+  font-size: 1.5em;
+}
+.yourEmail {
+  margin: 12px;
+  font-size: 1.5em;
+}
+.yourMessage {
+  margin: 12px;
+  font-size: 1.5em;
+}
+.submit {
+  margin: 12px;
+  font-size: 1.5em;
+}
+.linkBarContainer {
+  position: relative;
+  margin-top: 219px;
+}
+.contactMeLinkBar {
+position: absolute;
+bottom: 0;
+height: 100px;
+width: 100%;
+background-color: #84a9ac;
+}
